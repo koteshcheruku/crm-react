@@ -1,0 +1,12 @@
+export const card = 'bg-white dark:bg-slate-800 rounded-xl shadow-sm border border-slate-100 dark:border-slate-700';
+export const h1cls = 'text-4xl font-bold text-slate-900 dark:text-white mb-2';
+export const sub = 'text-slate-600 dark:text-slate-400';
+export const th = 'px-6 py-4 text-left text-sm font-semibold text-slate-900 dark:text-slate-200';
+export const td = 'px-6 py-4 text-slate-600 dark:text-slate-400';
+export const tdbold = 'px-6 py-4 font-semibold text-slate-900 dark:text-white';
+export const trRow = 'border-b border-slate-100 dark:border-slate-700 hover:bg-slate-50 dark:hover:bg-slate-700/50 transition-colors';
+export const thead = 'border-b border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-700/50';
+export const pill = 'flex items-center gap-2 bg-gradient-to-r from-blue-600 to-cyan-500 text-white px-6 py-3 rounded-lg hover:shadow-lg transition-all font-semibold';
+export const input = 'w-full px-4 py-3 border border-slate-300 dark:border-slate-600 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 bg-white dark:bg-slate-700 text-slate-900 dark:text-white placeholder-slate-400 dark:placeholder-slate-500';
+export const modalBackdrop = 'fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50';
+export const modal = 'bg-white dark:bg-slate-800 rounded-lg shadow-xl p-6';
