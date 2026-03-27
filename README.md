@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CRM Dashboard Pro
 
 A modern, professional Customer Relationship Management (CRM) dashboard built with React, Vite, and Tailwind CSS. Featuring role-based access control, responsive design, and a complete suite of CRM tools.
@@ -325,3 +326,6 @@ For issues or questions about the CRM dashboard, check:
 ---
 
 **Built with ❤️ for modern sales teams**
+=======
+# crm-react
+>>>>>>> ac16491a93ca6966b9d42cb4d7fa6610efd9ff20
